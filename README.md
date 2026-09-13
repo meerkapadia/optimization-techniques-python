@@ -454,4 +454,4 @@ The report documents both assignments and includes the sample problems and resul
 
 <p align="center">
   <i>Implemented in Python • Big-M Simplex • Vogel's Approximation Method • MODI</i>
-</p># optimization-techniques-python
+</p>
